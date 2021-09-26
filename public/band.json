@@ -1,0 +1,110 @@
+[
+    {
+      "id":1,
+      "Band":"Nagar Baul",
+      "create":1977,
+      "album":15,
+      "Singer":"James",
+      "img":"https://sgp1.digitaloceanspaces.com/cosmosgroup/news/6531978_x0eaXTY25SAw3mrQ0hFkZ3JzTu6rSo3yG5lyXh5A.jpeg",
+      "cost":15000
+    },
+    {
+      "id":2,
+      "Band":"Ashes",
+      "create":2001,
+      "album":2,
+      "Singer":"Zunayed Evan",
+      "img":"https://i.ytimg.com/vi/lMml8SOr19E/sddefault.jpg",
+      "cost":25000
+    },
+    {
+      "id":3,
+      "Band":"Sironamhin",
+      "create":1999,
+      "album":17,
+      "Singer":"Tanzir Tuhin",
+      "img":"https://media-eng.dhakatribune.com/uploads/2017/10/Tanzir-Tuhin.jpg",
+      "cost":5000
+    },
+    {
+      "id":4,
+      "Band":"Powersurge",
+      "create":2001,
+      "album":10,
+      "Singer":"Jamshed Chowdhury",
+      "img":"https://i.pinimg.com/originals/66/dc/47/66dc471d308d53803765773155799b93.jpg",
+      "cost":10000
+    },
+    {
+      "id":5,
+      "Band":"Abrovirus",
+      "create":1998,
+      "album":19,
+      "Singer":"Suharto Sherif",
+      "img":"https://i.ytimg.com/vi/xqd8L2aQ70c/sddefault.jpg",
+      "cost":60000
+    },
+    {
+      "id":6,
+      "Band":"Shunno",
+      "create":2002,
+      "album":21,
+      "Singer":"Emil",
+      "img":"https://blog.searchenglish.com/wp-content/uploads/2017/02/emil-.jpg",
+      "cost":55000
+    },
+    {
+      "id":7,
+      "Band":"Nemesis",
+      "create":1999,
+      "album":9,
+      "Singer":"Zohad Reza Chowdhury",
+      "img":"https://live.staticflickr.com/5541/9330165349_fccc5287be_b.jpg",
+      "cost":17000
+    },
+    {
+      "id":8,
+      "Band":"Cryptic fate",
+      "create":1994,
+      "album":5,
+      "Singer":"Shakib Chowdhury",
+      "img":"https://i.ytimg.com/vi/BKJS380q1Fo/maxresdefault.jpg",
+      "cost":19000
+    },
+    {
+      "id":9,
+      "Band":"Lalon",
+      "create":2003,
+      "album":7,
+      "Singer":"Nigar Sultana Sumi",
+      "img":"https://i.pinimg.com/736x/f1/2a/a7/f12aa7e480fe22e062abfddbc3da6d3e.jpg",
+      "cost":45000
+    },
+    {
+      "id":10,
+      "Band":"Chircutt",
+      "create":2005,
+      "album":23,
+      "Singer":"Sharmin Sultana Sumi",
+      "img":"https://i.ytimg.com/vi/UYhlf7M_SSI/maxresdefault.jpg",
+      "cost":76000
+    },
+    {
+      "id":11,
+      "Band":"Artcell",
+      "create":2000,
+      "album":28,
+      "Singer":"George Lincoln Dcosta",
+      "img":"https://i.ytimg.com/vi/0LLtrMiEdn8/maxresdefault.jpg",
+      "cost":156000
+    },
+    {
+      "id":12,
+      "Band":"Warfaze",
+      "create":1988,
+      "album":35,
+      "Singer":"Mizan",
+      "img":"https://cdn.risingbd.com/media/imgAll/2013November/Warfaze20131118182805.jpg",
+      "cost":97000
+    }
+  ]
